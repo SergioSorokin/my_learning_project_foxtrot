@@ -1,0 +1,64 @@
+{
+  "offers" :"Offers",
+  "details": "Details",
+  "locations":"Locations ",
+
+  "nameOfTheAction":"Name of the action ",
+
+  "titleDetailsScreen": "Foxtrot",
+
+  "titleAboutCompany": "About company",
+  "overthrow": "OVERTHROW",
+  "moreDetails": "MORE DETAILS",
+  "until": "until 12.01.2019",
+
+  "titleScheduleCompany": "Schedule",
+
+  "monday": "Monday",
+  "tuesday": "Tuesday",
+  "wednesday": "Wednesday",
+  "thursday": "Thursday",
+  "friday": "Friday",
+  "saturday": "Saturday",
+  "sunday": "Sunday",
+
+  "titleReviews": "Reviews",
+  "buttonTextReviews": "ALL REVIEWS",
+
+  "titleLeaveFeedback": "Leave feedback",
+  "hintTextLeaveFeedback": "Describe your impressions",
+  "buttonTextLeaveFeedback": "Publish",
+
+  "userName": "User",
+  "userSurName": "Name",
+
+  "addUser": "Add user",
+  "editUser": "Edit user",
+  "deleteUser": "Delete user",
+
+  "titleProfile": "Profile",
+
+  "lableTextName": "Name",
+  "hintTextName": "Enter your name",
+  "pleaseEnterYourName": "Please enter your name!",
+
+  "YouHaveExceededTheCharacterLimit": "You have exceeded the character limit!",
+
+  "lableTextSurname": "Surname",
+  "hintTextSurname": "Enter your surname",
+  "pleaseEnterYourSurname": "Please enter your surname!",
+
+  "saveChanges":"Save changes",
+
+  "dateOfBirth": "Date of Birth",
+  "enterYourDateOfBirth": "Enter your date of birth",
+  "pleaseEnterYourDateOfBirth": "Please enter your date of birth!",
+
+  "gender": "Gender",
+  "pleaseEnterYourGender": "Please enter your gender!",
+  "male": "Male",
+  "female": "Female",
+
+  "update": "UPDATE!!!",
+  "ok": "Ok"
+}

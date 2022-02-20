@@ -1,0 +1,64 @@
+{
+  "offers" :"Предложения",
+  "details": "Подробнее",
+  "locations":"Локации",
+
+  "nameOfTheAction":"Название акции ",
+
+  "titleDetailsScreen": "Фокстрот",
+
+  "titleAboutCompany": "О компании",
+  "overthrow": "СВЕРГНУТЬ",
+  "moreDetails": "ДЕТАЛЬНЕЕ",
+  "until": "до 12.01.2019",
+
+  "titleScheduleCompany": "График работы",
+
+  "monday": "Понедельник",
+  "tuesday": "Вторник",
+  "wednesday": "Среда",
+  "thursday": "Четверг",
+  "friday": "Пятница",
+  "saturday": "Суббота",
+  "sunday": "Воскресенье",
+
+  "titleReviews": "Отзывы",
+  "buttonTextReviews": "ВСЕ ОТЗЫВЫ",
+
+  "titleLeaveFeedback": "Оставить отзыв",
+  "hintTextLeaveFeedback": "Опишите свои впечатления",
+  "buttonTextLeaveFeedback": "Опубликовать",
+
+  "userName": "Имя",
+  "userSurName": "Пользователя",
+
+  "addUser": "Добавить пользователя",
+  "editUser": "Редактировать \n пользователя",
+  "deleteUser": "Удалить пользователя",
+
+  "titleProfile": "Профиль",
+
+  "lableTextName": "Имя",
+  "hintTextName": "Введите ваше имя",
+  "pleaseEnterYourName": "Пожалуйста, введите ваше имя!",
+
+  "YouHaveExceededTheCharacterLimit": "Вы превысили лимит символов!",
+
+  "lableTextSurname": "Фамилия",
+  "hintTextSurname": "Введите вашу фамилию",
+  "pleaseEnterYourSurname": "Пожалуйста, введите вашу фамилию!",
+
+  "saveChanges":"Сохранить изменения",
+
+  "dateOfBirth": "Дата рождения",
+  "enterYourDateOfBirth": "Введите дату вашего рождения",
+  "pleaseEnterYourDateOfBirth": "Пожалуйста, введите дату вашего рождения!",
+
+  "gender": "Пол",
+  "pleaseEnterYourGender": "Пожалуйста, укажите свой пол!",
+  "male": "Мужской",
+  "female": "Женский",
+
+  "update": "ОБНОВИТЬ!!!",
+  "ok": "Ладно"
+}

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "290727110620",
+    "project_id": "disounter",
+    "storage_bucket": "disounter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290727110620:android:410e73f9ccc6fcbf3a9119",
+        "android_client_info": {
+          "package_name": "com.zddarova.discounter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290727110620-e51175ue1ok9e5ufrinocnfk48dia7bb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbJ5tZLslA9jxVUIKswkO6_3HsRNhiUXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290727110620-e51175ue1ok9e5ufrinocnfk48dia7bb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "290727110620-5q3s7hm0pqskeaes84fp85ht1cc91ehc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zddarova.discounter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
